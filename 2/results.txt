@@ -1,0 +1,7 @@
+[('No BN, No Dropout', 0.9896),
+ ('No BN, Dropout=0.1', 0.99),
+ ('BN, Dropout=0.25', 0.9881)]
+
+ [('SGD', 0.9833), ('SGD+Momentum', 0.993), ('Adam', 0.9904)]
+
+ [('Sigmoid', 0.984), ('Tanh', 0.9873), ('ReLU', 0.9906)]
